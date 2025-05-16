@@ -1,0 +1,1 @@
+Wind is recorded every 15 minutes from 2020/1/1 to 2020/5/21, which contains 7 indicators, such as pred_temperature, pred_wind_speed, pred_wind_direction, etc.

@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/IBM_m/data-00000-of-00001.arrow"
+  offset: -152
+  prediction_length: 48
+  num_rolls: 104
+  max_history: 128

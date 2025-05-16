@@ -1,0 +1,16 @@
+  _target_: uni2ts.data.builder.ConcatDatasetBuilder
+  _args_:
+    _target_: uni2ts.data.builder.simple.generate_eval_builders
+    dataset: IBM_m_eval
+    offset: 531
+    eval_length: 76
+    prediction_lengths:
+      - 24
+      - 48
+      - 60
+    context_lengths:
+      - 128
+    patch_sizes:
+      - 8
+      - 16
+      - 32

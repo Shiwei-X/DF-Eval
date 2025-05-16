@@ -1,0 +1,1 @@
+Covid-19 contains time-series data on cumulative and new Covid-19 cases and deaths across multiple countries, with daily records starting from January 2020.

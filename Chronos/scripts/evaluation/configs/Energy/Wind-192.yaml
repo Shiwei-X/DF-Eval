@@ -1,0 +1,6 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/Wind/data-00000-of-00001.arrow"
+  offset: -9735
+  prediction_length: 192
+  num_rolls: 9543
+  max_history: 512
+

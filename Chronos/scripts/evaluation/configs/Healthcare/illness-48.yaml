@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/illness/data-00000-of-00001.arrow"
+  offset: -193
+  prediction_length: 48
+  num_rolls: 145
+  max_history: 128

@@ -1,0 +1,7 @@
+_target_: uni2ts.model.moirai.MoiraiForecast
+module:
+  _target_: uni2ts.model.moirai.MoiraiModule.from_pretrained
+  pretrained_model_name_or_path: /home/xiongshiwei/uni2ts/outputs/finetune/moirai_1.0_R_small/etth1/example_run/checkpoints/epoch=0-step=100.ckpt
+num_samples: 100
+patch_size: ???
+context_length: ???

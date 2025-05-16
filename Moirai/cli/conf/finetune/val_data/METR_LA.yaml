@@ -1,0 +1,16 @@
+  _target_: uni2ts.data.builder.ConcatDatasetBuilder
+  _args_:
+    _target_: uni2ts.data.builder.simple.generate_eval_builders
+    dataset: METR_LA_eval
+    offset: 23990
+    eval_length: 3427
+    prediction_lengths:
+      - 96
+      - 192
+      - 336
+    context_lengths:
+      - 512
+    patch_sizes:
+      - 32
+      - 64
+      - 128

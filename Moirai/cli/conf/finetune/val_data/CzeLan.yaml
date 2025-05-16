@@ -1,0 +1,16 @@
+  _target_: uni2ts.data.builder.ConcatDatasetBuilder
+  _args_:
+    _target_: uni2ts.data.builder.simple.generate_eval_builders
+    dataset: CzeLan_eval
+    offset: 13954
+    eval_length: 1993
+    prediction_lengths:
+      - 96
+      - 192
+      - 336
+    context_lengths:
+      - 512
+    patch_sizes:
+      - 32
+      - 64
+      - 128

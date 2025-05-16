@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/METR_LA/data-00000-of-00001.arrow"
+  offset: -6854
+  prediction_length: 192
+  num_rolls: 6662
+  max_history: 512

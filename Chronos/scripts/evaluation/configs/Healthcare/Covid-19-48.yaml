@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/Covid-19/data-00000-of-00001.arrow"
+  offset: -278
+  prediction_length: 48
+  num_rolls: 230
+  max_history: 128

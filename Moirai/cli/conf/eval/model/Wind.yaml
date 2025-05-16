@@ -1,0 +1,5 @@
+_target_: uni2ts.model.moirai.MoiraiForecast.load_from_checkpoint
+checkpoint_path: /home/xiongshiwei/uni2ts/outputs/finetune/moirai_1.0_R_large/Wind/Wind/checkpoints/epoch=2-step=300.ckpt
+num_samples: 100
+patch_size: 32
+context_length: 512

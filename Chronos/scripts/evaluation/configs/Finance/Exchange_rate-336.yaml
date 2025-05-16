@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/Exchange_rate/data-00000-of-00001.arrow"
+  offset: -1518
+  prediction_length: 336
+  num_rolls: 1182
+  max_history: 512

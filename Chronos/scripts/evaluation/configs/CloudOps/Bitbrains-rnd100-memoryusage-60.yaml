@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/Bitbrains-rnd100-memoryusage/data-00000-of-00001.arrow"
+  offset: -373
+  prediction_length: 60
+  num_rolls: 313
+  max_history: 128

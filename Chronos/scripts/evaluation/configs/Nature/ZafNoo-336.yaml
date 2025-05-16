@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/ZafNoo/data-00000-of-00001.arrow"
+  offset: -3845
+  prediction_length: 336
+  num_rolls: 3509
+  max_history: 512

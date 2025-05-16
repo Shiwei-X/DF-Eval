@@ -1,0 +1,1 @@
+L2C contains the data for an Order Approval process based on a real-world Lead-to-Cash process.

@@ -1,0 +1,1 @@
+BizITObs-Service contains the service-level data for the Robot Shop application monitored by Instana.

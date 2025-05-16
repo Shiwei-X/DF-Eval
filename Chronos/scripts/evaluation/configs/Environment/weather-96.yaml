@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/weather/data-00000-of-00001.arrow"
+  offset: -10539
+  prediction_length: 96
+  num_rolls: 10443
+  max_history: 512

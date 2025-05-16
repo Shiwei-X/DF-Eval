@@ -1,0 +1,16 @@
+  _target_: uni2ts.data.builder.ConcatDatasetBuilder
+  _args_:
+    _target_: uni2ts.data.builder.simple.generate_eval_builders
+    dataset: Bitbrains-rnd100-memoryusage_eval
+    offset: 1306
+    eval_length: 187
+    prediction_lengths:
+      - 24
+      - 48
+      - 60
+    context_lengths:
+      - 128
+    patch_sizes:
+      - 32
+      - 64
+      - 128

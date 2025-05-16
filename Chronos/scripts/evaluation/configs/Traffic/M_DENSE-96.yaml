@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/M_DENSE/data-00000-of-00001.arrow"
+  offset: -3504
+  prediction_length: 96
+  num_rolls: 3408
+  max_history: 512

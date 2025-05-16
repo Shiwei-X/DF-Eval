@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/CzeLan/data-00000-of-00001.arrow"
+  offset: -3987
+  prediction_length: 192
+  num_rolls: 3795
+  max_history: 512

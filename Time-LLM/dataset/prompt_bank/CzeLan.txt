@@ -1,0 +1,1 @@
+CzeLan is recorded every 30 minutes plant transpiration data from sap flow measurements in Floodplain forests. 

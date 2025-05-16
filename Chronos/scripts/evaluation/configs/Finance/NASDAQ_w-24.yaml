@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/NASDAQ_w/data-00000-of-00001.arrow"
+  offset: -155
+  prediction_length: 24
+  num_rolls: 131
+  max_history: 128

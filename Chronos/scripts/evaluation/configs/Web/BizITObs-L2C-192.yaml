@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/BizITObs-L2C/data-00000-of-00001.arrow"
+  offset: -6394
+  prediction_length: 192
+  num_rolls: 6202
+  max_history: 512

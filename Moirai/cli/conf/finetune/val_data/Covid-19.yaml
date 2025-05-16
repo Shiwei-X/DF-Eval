@@ -1,0 +1,15 @@
+  _target_: uni2ts.data.builder.ConcatDatasetBuilder
+  _args_:
+    _target_: uni2ts.data.builder.simple.generate_eval_builders
+    dataset: Covid-19_eval
+    offset: 974
+    eval_length: 139
+    prediction_lengths:
+      - 24
+      - 48
+      - 60
+    context_lengths:
+      - 128
+    patch_sizes:
+      - 16
+      - 32

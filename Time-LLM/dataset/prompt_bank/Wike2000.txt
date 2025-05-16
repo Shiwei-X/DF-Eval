@@ -1,0 +1,1 @@
+Wike2000 recorded daily count time series of number of hits of 2000 wiki pages.

@@ -1,0 +1,5 @@
+- dataset_path: "/home/xiongshiwei/chronos-forecasting/data/AQShunyi/data-00000-of-00001.arrow"
+  offset: -7013
+  prediction_length: 192
+  num_rolls: 6821
+  max_history: 512
