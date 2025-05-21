@@ -1,0 +1,1 @@
+CAISO is a collection of actual load data from California Independent System Operator, which contains 34 areas. It records every hour data from January 5, 2024, to January 4, 2025.

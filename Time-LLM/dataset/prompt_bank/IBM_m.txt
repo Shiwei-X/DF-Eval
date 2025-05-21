@@ -1,4 +1,4 @@
-The IBM_m dataset records monthly stock data of IBM collected since 1962.
+IBM_m contains monthly stock trading information for IBM from January 1, 1962 to February 1, 2025.
 
 
 

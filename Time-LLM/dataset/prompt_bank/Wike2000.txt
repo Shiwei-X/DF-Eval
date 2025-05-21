@@ -1,1 +1,1 @@
-Wike2000 recorded daily count time series of number of hits of 2000 wiki pages.
+Wike2000 contains the daily number of hits of 2000 wiki pages from January 1, 2012 to March 2, 2014.

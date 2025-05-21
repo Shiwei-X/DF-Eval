@@ -1,1 +1,1 @@
-AQWan contains hourly air quality measurements from Wanshou Palace, including pollutant concentrations and some meteorological data.
+AQWan contains air quality measurements from Wanshou Palace, including pollutant concentrations and some meteorological data. It records every hour from March 1, 2013, to February 28, 2017.

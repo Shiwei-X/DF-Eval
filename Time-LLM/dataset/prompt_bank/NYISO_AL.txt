@@ -1,2 +1,0 @@
-NYISO_AL is a collection of hourly actual load data from New York Independent System Operator, which contains 11 areas.
-

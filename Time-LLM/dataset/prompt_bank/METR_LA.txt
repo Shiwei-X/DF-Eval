@@ -1,1 +1,1 @@
-The METR_LA dataset contains real-time traffic speed data collected every five minutes from loop detectors across the Los Angeles highway network.
+METR_LA contains real-time traffic speed data collected from loop detectors across the Los Angeles highway network. It is recorded every 5 minutes from March 1, 2012, to June 27, 2012.

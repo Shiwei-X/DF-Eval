@@ -1,1 +1,1 @@
-L2C contains the data for an Order Approval process based on a real-world Lead-to-Cash process.
+BizITObs-L2C contains the data for an Order Approval process based on a real-world Lead-to-Cash process. It is recorded every 5 minutes from November 1, 2020, to February 19, 2021.

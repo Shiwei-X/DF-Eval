@@ -1,1 +1,1 @@
-The NYCTAXI_Outflow dataset contains spatiotemporal taxi trip data in New York City, including taxi outflow data from 263 locations.
+NYCTAXI_Outflow contains spatiotemporal taxi trip data in New York City, including taxi outflow data from 263 locations. It is recorded every hour from January 1, 2020, to May 31, 2020.

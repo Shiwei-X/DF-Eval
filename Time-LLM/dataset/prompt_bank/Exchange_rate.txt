@@ -1,1 +1,1 @@
-The Exchange_rate dataset contains time-series data of daily exchange rates for multiple currencies.
+Exchange_rate provides the daily exchange rates of eight countries ranging from January 1, 1990, to October 10, 2010.

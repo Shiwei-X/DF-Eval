@@ -1,1 +1,1 @@
-ZafNoo is recorded 30-minute interval transpiration data from sap flow measurements for apple (Malus pumila) orchards conducted in South Africa's Mediterranean climate regions.
+ZafNoo contains interval transpiration data from sap flow measurements for apple orchards conducted in South Africa's Mediterranean climate regions. It is recorded every 30 minutes from May 15, 2008, to June 20, 2009.

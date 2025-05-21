@@ -1,1 +1,0 @@
-CAISO_AL is a collection of hourly actual load data from California Independent System Operator, which contains 34 areas.

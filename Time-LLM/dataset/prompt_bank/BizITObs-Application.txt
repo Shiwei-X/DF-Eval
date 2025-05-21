@@ -1,1 +1,1 @@
-BizITObs-Application contains the application-level data for the Robot Shop application monitored by Instana.
+BizITObs-Application provides the application-level data for the Robot Shop application monitored by Instana. It is recorded every 10 seconds from 10:01:50 on March 13, 2023, to 10:34:00 on March 14, 2023.

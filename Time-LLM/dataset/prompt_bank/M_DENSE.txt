@@ -1,1 +1,1 @@
-The M_DENSE dataset contains hourly traffic density measurements recorded from multiple sensors in Madrid, Spain.
+M_DENSE contains traffic density measurements recorded from multiple sensors in Madrid, Spain, including traffic flow, speed, and occupancy data. It is recorded every hour from January 1, 2018, to December 21, 2019.

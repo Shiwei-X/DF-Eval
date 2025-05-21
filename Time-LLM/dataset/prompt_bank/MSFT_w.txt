@@ -1,1 +1,1 @@
-The MSFT_w dataset comprises weekly recorded stock data for Microsoft spanning from 1986 onward.
+MSFT_w contains weekly stock trading information for Microsoft from March 10, 1986 to February 24, 2025.

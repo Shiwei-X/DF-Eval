@@ -1,1 +1,1 @@
-Bitbrains-rnd100-cpuusage is the modified dataset from the original rnd Bitbrains traces dataset, a publicly available workload traces, named rnd trace has been used. This dataset This dataset is recorded memory usage every 15 minutes.
+Bitbrains-rnd100-memoryusage is the modified dataset from the original rnd Bitbrains traces dataset, a publicly available workload traces, named rnd trace has been used. This dataset  is recorded memory usage every 15 minutes from August 12, 2013, to August 31, 2013.

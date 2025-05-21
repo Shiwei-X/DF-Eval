@@ -1,1 +1,1 @@
-weather is recorded every 10 minutes for the 2020 whole year, which contains 21 meteorological indicators, such as air temperature, humidity, etc.
+weather is recorded every 10 minutes throughout the year 2020, from January 1 to December 31, covering 21 meteorological parameters, including air temperature, humidity, and more.

@@ -1,1 +1,1 @@
-illness tracks weekly influenza-like illness (ILI) trends, including weighted and unweighted ILI percentages, age-specific case counts, and the total number of cases, etc.
+illness tracks weekly influenza-like illness (ILI) trends from January 1, 2002, to June 30, 2020, including weighted and unweighted ILI percentages, age-specific case counts, and the total number of cases, etc.

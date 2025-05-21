@@ -1,1 +1,1 @@
-The ​NASDAQ_w dataset comprises weekly-resolved stock market data (e.g., index values, trading volumes) for the NASDAQ Composite Index, with temporal coverage spanning from 2010 onward.
+​NASDAQ_w comprises weekly-resolved stock market data (e.g., index values, trading volumes) for the NASDAQ Composite Index, with temporal coverage spanning from January 4, 2010, to October 21, 2024.
